@@ -130,7 +130,7 @@
             
             @keyframes ld {
                 0% {
-                    transform:translateY(-165px) rotate(0deg);
+                    transform:translateY(-165px) rotate(0deg);  
                 }
                 100% {
                     transform:translateY(-165px) rotate(360deg);
